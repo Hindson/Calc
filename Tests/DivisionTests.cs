@@ -2,7 +2,7 @@ using ClassLibrary;
 
 namespace Tests
 {
-    public class Tests
+    public class DivisionTests
     {
         private Division _division;
 
